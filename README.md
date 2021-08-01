@@ -1,2 +1,1 @@
-# krishna
-Python
+Print('Hello,World!')
